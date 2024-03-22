@@ -29,7 +29,7 @@ body {
     color:#444;
 }
 
-header {
+header div {
     display: flex;
     justify-content: space-evenly;
     padding: 2rem;
@@ -42,6 +42,7 @@ header {
 .sign-in {
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .sign-in button {
